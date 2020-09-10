@@ -7,7 +7,7 @@ Uber trip data (2014) analysis using Python, Pandas and Jupyter Notebook
 **Packages:** Pandas, Seaborn
 
 
-![alt text](https://github.com//OluyemiJ/Uber-Trip-Data-Analysis/blob/master/lon_lat_hist.png "Longitude Latitude Histogram")
+![alt text](https://github.com//OluyemiJ/Uber-Trip-Data-Analysis/blob/master/Screenshot 2020-09-10 at 21.07.28.png "Longitude Latitude Histogram")
 
 ![alt text](https://github.com/OluyemiJ/Uber-Trip-Data-Analysis/blob/master/activity_heat_map.png "Heat Map of Activity")
 
